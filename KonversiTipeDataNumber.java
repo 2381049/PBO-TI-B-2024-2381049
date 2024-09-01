@@ -16,7 +16,7 @@ public class KonversiTipeDataNumber {
         String firstName, lastName ;
         firstName = "Thomson";
         lastName = "Situmorang";
-        System.out.println ("%s %s", firstName, lastName) ;
 
+        System.out.printf("%s %s", firstName, lastName) ;
     }
 }
